@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.surfboardsboom-14830424.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/WORK_3D/projects/Unreal Projects/SurfBoardsBoom/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "SurfBoardsBoom-14830424 [UE Editor]"
+				}
+			}
+		}
+	]
+}
